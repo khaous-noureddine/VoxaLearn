@@ -12,7 +12,6 @@ The project will evolve with:
 - real-time feedback  
 - multilingual TTS  
 - voice cloning  
-- pronunciation scoring  
 
 ---
 
