@@ -7,8 +7,7 @@ It allows you to:
 - 🧠 Compare what you said to a target sentence using an LLM  
 - ✍️ Receive clear feedback, corrections, and explanations  
 
-This is an early version (V1).  
-The project will evolve with:
+This is an early version (V1), the project will evolve with:
 - real-time feedback  
 - multilingual TTS  
 - voice cloning  
