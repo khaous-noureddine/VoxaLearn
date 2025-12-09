@@ -1,3 +1,10 @@
 sounddevice
 scipy
 numpy
+keyboard
+openai-whisper
+# ffmpeg-python
+transformers 
+accelerate 
+datasets 
+soundfile
